@@ -1,0 +1,61 @@
+[
+{
+ "name":"kuldeep",
+ "email":"kuldeepsuthar@gmail.com",
+  mob:8094809434
+},
+{
+ "name":"nikesh",
+ "email":"nikeshsuthar@gmail.com",
+  mob:9694989816
+},
+
+{
+ "name":"narsingh",
+ "email":"narsinghsuthar@gmail.com",
+  mob:9001234367
+},
+
+{
+ "name":"amit",
+ "email":"wasnikamit@gmail.com",
+  mob:123456
+},
+{
+ "name":"nikita",
+ "email":"nikitagurjar@gmail.com",
+  mob:123456789
+},
+{
+ "name":"user1",
+ "email":"user1@gmail.com",
+  mob:123456
+},
+
+{
+ "name":"user2",
+ "email":"user2@gmail.com",
+  mob:123456
+},
+{
+ "name":"user3",
+ "email":"user3@gmail.com",
+  mob:123456789
+},
+{
+ "name":"user4",
+ "email":"user4@gmail.com",
+  mob:123456
+},
+
+{
+ "name":"user5",
+ "email":"user5@gmail.com",
+  mob:123456
+},
+{
+ "name":"user6",
+ "email":"user6@gmail.com",
+  mob:123456789
+}
+]
